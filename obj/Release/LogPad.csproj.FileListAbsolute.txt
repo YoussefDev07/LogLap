@@ -1,0 +1,14 @@
+C:\Apps\LogPad\bin\Release\LogPad.exe.config
+C:\Apps\LogPad\bin\Release\LogPad.exe.manifest
+C:\Apps\LogPad\bin\Release\LogPad.application
+C:\Apps\LogPad\bin\Release\LogPad.exe
+C:\Apps\LogPad\bin\Release\LogPad.pdb
+C:\Apps\LogPad\obj\Release\LogPad.csproj.AssemblyReference.cache
+C:\Apps\LogPad\obj\Release\LogPad.Form1.resources
+C:\Apps\LogPad\obj\Release\LogPad.Properties.Resources.resources
+C:\Apps\LogPad\obj\Release\LogPad.csproj.GenerateResource.cache
+C:\Apps\LogPad\obj\Release\LogPad.csproj.CoreCompileInputs.cache
+C:\Apps\LogPad\obj\Release\LogPad.exe.manifest
+C:\Apps\LogPad\obj\Release\LogPad.application
+C:\Apps\LogPad\obj\Release\LogPad.exe
+C:\Apps\LogPad\obj\Release\LogPad.pdb
