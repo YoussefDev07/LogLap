@@ -118,8 +118,8 @@ namespace LogPad
             if (String.IsNullOrEmpty(FilePath))
             {
                 var Dialog = new SaveFileDialog();
-                Dialog.Filter = "Text Files|*.txt";
-                Dialog.FileName = "" + ".txt";
+                Dialog.Filter = "Logs Files|*.log";
+                Dialog.FileName = "" + ".log";
 
                 var Result = Dialog.ShowDialog();
 
